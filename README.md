@@ -15,7 +15,8 @@ An end-to-end AI-powered pipeline to scrape online book chapters, rewrite ("spin
 
 ---
 
-## 🏗 Folder Structure
+## 🏗 Folder Structure 
+```bash
 
 automated_book_publication/
 │
@@ -71,6 +72,7 @@ automated_book_publication/
 │   └── config.py                      ← API keys, model paths, flags
 │
 └── requirements.txt
+```
 
 ## 🔮 Future Scope
 RL-based optimization with human feedback loops
